@@ -49,7 +49,6 @@
   const student2 = addCourseToStudent({
     name: "Y",
     email: "y@gmail.com",
-    devType: "NLWD",
     hasWatch: "Apple watch",
   });
   //
