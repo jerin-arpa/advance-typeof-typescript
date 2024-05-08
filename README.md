@@ -1,0 +1,1 @@
+## Advance Type of Typescript
